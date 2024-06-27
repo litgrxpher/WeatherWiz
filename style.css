@@ -17,15 +17,6 @@ body {
     background-position: center;
 }
 
-.logo {
-    position: absolute;
-    top: 35px;
-    left: 80px;
-    font-size: 24px;
-    font-weight: 500;
-    color: rgb(255, 255, 255);
-    text-transform: capitalize;
-}
 
 .container {
     position: relative;
