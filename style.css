@@ -38,7 +38,6 @@ body {
     padding: 20px;
     color: white;
     transition: height .6s ease;
-    padding-bottom: 80px;
 }
 
 .searchbox {
@@ -407,6 +406,6 @@ body {
         font-size: 16px;
     }
     .footer-text {
-        font-size: 6px;
+        display: none;
     }
 }
